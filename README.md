@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently learning with AttainU
+- 🌱 I’m currently learning backend modules as i am done with Front-end one!
+
 <!--
 **Sumit-malviya-au8/Sumit-malviya-au8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
