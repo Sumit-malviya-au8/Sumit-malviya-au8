@@ -1,7 +1,18 @@
 ### Hi there 👋
+I am Sumit and I Love ❤️ programming !
+Enthusiastic Full Stack learner eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of the Front end and the Back-end. Motivated to learn, grow, and excel in the IT industry.
 
-- 🔭 I’m currently learning with AttainU
-- 🌱 I’m currently learning backend modules as i am done with Front-end one!
+                                                      Language & Skills
+
+HTML
+CSS
+React
+Python
+JavaScipt
+Web Development
+
+
+
 
 <!--
 **Sumit-malviya-au8/Sumit-malviya-au8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
