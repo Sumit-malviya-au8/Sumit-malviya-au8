@@ -1,30 +1,79 @@
-### Hi there 👋
-I am Sumit and I Love ❤️ programming !
-Enthusiastic Full Stack learner eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of the Front end and the Back-end. Motivated to learn, grow, and excel in the IT industry.
+# 👋 Hi, I'm Sumit Malviya  
 
-                                                      Language & Skills
+🚀 Experienced Software Developer | Problem Solver | Tech Enthusiast  
+💡 I enjoy building scalable applications, clean architectures, and real-world products
 
-HTML
-CSS
-React
-Python
-JavaScipt
-Web Development
+---
 
+## 🧑‍💻 About Me
 
+- 💻 Experienced **Software Developer**
+- 🏗️ Strong interest in **System Design & Scalable Architecture**
+- 🌐 Working across **Web, Backend & Cloud**
+- 📈 Curious about **startups, digital products & automation**
+- 🤝 Open to collaboration and meaningful tech discussions
 
+---
 
-<!--
-**Sumit-malviya-au8/Sumit-malviya-au8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+### 💻 Languages
+- Python
+- JavaScript / TypeScript
+- SQL
 
-- 🔭 I’m currently working on AttainU
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Frontend
+- Angular
+- HTML, CSS
+- Tailwind CSS
+
+### ⚙️ Backend
+- Python (FastAPI / Django)
+- Node.js
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### 🔧 Tools & Platforms
+- Git & GitHub
+- Docker
+- Linux
+- AWS (Basics)
+
+---
+
+## 📌 What I’m Currently Working On
+
+- 🚀 Full-stack real-world applications
+- 📱 Scalable backend systems
+- 📊 Performance optimization
+- 🧠 Advanced system design & best practices
+
+---
+
+## 📂 Featured Projects
+
+🔹 **E-commerce Platform**  
+> Full-stack app with product management, cart, checkout & admin panel  
+
+🔹 **Hotel & Booking Solutions**  
+> Websites & digital systems to improve hotel visibility and bookings  
+
+🔹 **Automation Tools**  
+> Scripts and utilities to save time and increase efficiency  
+
+👉 More projects coming soon…
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 LinkedIn: [*Sumit Malviya*](https://www.linkedin.com/in/sumit-react-dev/overlay/contact-info/)
+- 📧 Email: *sumitindian11@gmail.com*
+
+---
+
+⭐ If you find my work useful, consider **starring** repositories  
+✨ Always learning. Always building.
